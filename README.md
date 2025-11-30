@@ -1,65 +1,17 @@
-# 🌍 Wanderlust Travel Agency – Capstone Project  
-A fully responsive and modern travel agency website built using **HTML, CSS, and JavaScript**.  
-This project includes **travel packages, destinations, testimonials, blog section, contact form & dummy payment gateway**.
 
----
+<img width="1908" height="891" alt="WANDERLUST-1" src="https://github.com/user-attachments/assets/0352d93b-3508-4e47-b3b6-d7226a21a2be" />
 
-## 📌 Features
+<img width="1920" height="1008" alt="WANDERLUST-2" src="https://github.com/user-attachments/assets/1e346eda-f8d3-4e01-87f9-11a65d2dd314" />
 
-### ✔ Modern UI/UX  
-- Clean layout with smooth hover effects  
-- Fully responsive on mobile, tablet & desktop  
+<img width="1908" height="891" alt="WANDERLUST-3" src="https://github.com/user-attachments/assets/64a7bea5-19f7-48f8-8cb3-3ad6cb8531c1" />
 
-### ✔ Hero Section  
-- High-quality banner  
-- CTA button for quick navigation  
+<img width="1908" height="891" alt="WANDERLUST-4" src="https://github.com/user-attachments/assets/a71eb697-1976-4c71-b377-3ddd550d0a26" />
 
-### ✔ Destination Highlights  
-- Popular destinations with images & descriptions  
 
-### ✔ Travel Packages Section  
-- 4 curated packages with pricing  
-- Responsive grid layout  
+<img width="1920" height="1008" alt="wanderlust-5" src="https://github.com/user-attachments/assets/c81d88bc-9f15-4738-8d40-afa05e2d454d" />
 
-### ✔ How It Works  
-- Step-by-step booking procedure  
+<img width="1920" height="1008" alt="wanderlust6" src="https://github.com/user-attachments/assets/d9d9631e-28a8-4cbf-adbb-18d5a803d153" />
 
-### ✔ Testimonials  
-- Customer reviews for trust building  
+<img width="1908" height="891" alt="wanderlust7" src="https://github.com/user-attachments/assets/4c5e5310-059b-4ee5-ac63-d193f91cdf5d" />
 
-### ✔ Blog Section  
-- Travel tips and guides  
-
-### ✔ Stats Panel  
-- Customers served, ratings & tours  
-
-### ✔ Newsletter Section  
-- Simple email subscription input  
-
-### ✔ Contact Form  
-- Send message form  
-- Map section for location  
-
-### ✔ Dummy Payment Gateway  
-- Name  
-- Card Number  
-- UPI ID  
-- CVV  
-- Success message UI  
-
----
-
-## 🛠️ Tech Stack Used
-
-| Technology | Purpose |
-|-----------|---------|
-| **HTML5** | Website structure |
-| **CSS3** | Styling, animations & UI |
-| **JavaScript** | Payment form handling |
-| **Google Fonts** | Typography |
-| **Font Awesome** | Icons |
-
----
-
-## 📁 Folder Structure
-
+![PAYMENT MEHTOD](https://github.com/user-attachments/assets/9ce79974-13e8-4dd9-8d07-d689d19f5eed)
